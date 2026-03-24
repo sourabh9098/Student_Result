@@ -3,9 +3,10 @@ Student Performance Analysis (EDA)
 This project performs Exploratory Data Analysis on student performance data to understand how different factors affect academic scores.
 
 Project Objective -
+
 The goal is to analyze the dataset and identify patterns influencing student performance in subjects like math, reading, and writing.
 
-Dataset Features :-
+Dataset Features -
 
 - Gender  
 - Ethnic Group  
@@ -35,6 +36,6 @@ Pandas
 Matplotlib  
 Seaborn  
 
-Conclusion :-
+Conclusion :
 
 EDA helps uncover meaningful insights from student data and prepares the dataset for machine learning models.
