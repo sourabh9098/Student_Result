@@ -23,8 +23,8 @@ Dashborads
 
 Key Insights
 
-- Students who study more then 10 hours are score better  
-- Parent education has an impact on performance  
+Students who study more then 10 hours are score better  
+Parent education has an impact on performance  
 Strong correlation between math, reading, and writing scores  
 Performance patterns vary across different student groups  
 
